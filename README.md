@@ -1,5 +1,7 @@
 # enrique.github.io
 # 📄 John Doe
+![Profile Picture](scale.webp)
+
 **Aspiring AI Engineer | Data Enthusiast | Lifelong Learner**  
 📍 City, Country | 📧 john.doe@example.com | 📱 +1 234 567 8901 | [LinkedIn](https://linkedin.com/in/johndoe) | [GitHub](https://github.com/johndoe)
 
